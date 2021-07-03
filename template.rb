@@ -54,6 +54,7 @@ def add_gems
   gem 'pundit', '~> 2.1'
   gem 'redis', '~> 4.2', '>= 4.2.2'
   gem 'sidekiq', '~> 6.2'
+  gem 'slim-rails'
   gem 'sitemap_generator', '~> 6.1', '>= 6.1.2'
   gem 'whenever', require: false
 
